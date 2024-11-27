@@ -36,7 +36,7 @@ project-template/
 │
 ├── Data/                       # Folder with your data files
 ├── jupyter_notebook.ipynb      # Your Jupyter Notebook with markdown and code cells (change name if required)
-├── requirements.txt            # Python dependencies
+├── requirements.txt            # Python libraries
 ├── README.md                   # Project instructions (this file)
-└── .gitignore                  # Files to be ignored by Git
+└── .gitignore                  # Files to be ignored by Git (extend if required)
 ```
