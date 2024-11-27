@@ -32,7 +32,7 @@
 
 6. **Directory Structure**
 ```
-project-template/
+project-name/
 │
 ├── Data/                       # Folder with your data files
 ├── jupyter_notebook.ipynb      # Your Jupyter Notebook with markdown and code cells (change name if required)
