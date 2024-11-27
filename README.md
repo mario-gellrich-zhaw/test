@@ -12,7 +12,7 @@
    - Add your team members' GitHub usernames or email addresses one by one.
    - All invited team members must accept the invitation to collaborate.
 
-3. **Access the fork via GitHub Codespaces**
+3. **Access the Fork via GitHub Codespaces**
    - Ensure each invited team member is logged into their own GitHub account.
    - Navigate to the project repository (no need for a fork) by including the repository URL in the address bar of the browser 
      (e.g. https://github.com/repository-owner/project-name)
