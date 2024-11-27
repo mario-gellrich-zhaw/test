@@ -21,6 +21,7 @@
 
 4. **Check Permissions**
    - Verify that you have the necessary access (e.g., write or collaborator access) to interact directly with the repository.
+   - You can do this by changing code in your Jupyter Notebook and try to commit and sync the changes.
    - If unsure, check the repository's settings or contact the repository owner.
 
 5. **Collaborate Within Codespaces**
