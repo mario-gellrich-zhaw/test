@@ -3,7 +3,7 @@
 ## Usage:
 
 1. **Fork the Repository**  
-   - One student (repository owner) must fork this repository into their GitHub account.
+   - One student (repository owner) must fork this project template repository into their GitHub account.
    - The repository owner must then rename the repository according to the project name.
 
 2. **Invite Team Members**  
