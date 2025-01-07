@@ -22,3 +22,6 @@ flask_wtf
 joblib
 dash
 geopandas
+tabulate
+kaggle
+zipfile
